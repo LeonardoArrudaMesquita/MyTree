@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{987BDABD-BE85-4833-AB35-7235F3202A59}|Default">
+  <MonoDevelop.Ide.ItemProperties.MyTree FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyTree/MyTree.cs">
+    <Files>
+      <File FileName="MyTree/Program.cs" Line="12" Column="42" />
+      <File FileName="MyTree/Node.cs" />
+      <File FileName="MyTree/MyTree.cs" Line="23" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyTree" expanded="True">
+            <Node name="MyTree" expanded="True">
+              <Node name="MyTree.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

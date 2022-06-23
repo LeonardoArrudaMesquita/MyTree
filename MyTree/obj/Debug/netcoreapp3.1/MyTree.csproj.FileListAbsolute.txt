@@ -1,0 +1,13 @@
+/Users/leonardo.mesquita/Documents/Personal/pocs/MyTree/MyTree/bin/Debug/netcoreapp3.1/MyTree.deps.json
+/Users/leonardo.mesquita/Documents/Personal/pocs/MyTree/MyTree/bin/Debug/netcoreapp3.1/MyTree.runtimeconfig.json
+/Users/leonardo.mesquita/Documents/Personal/pocs/MyTree/MyTree/bin/Debug/netcoreapp3.1/MyTree.runtimeconfig.dev.json
+/Users/leonardo.mesquita/Documents/Personal/pocs/MyTree/MyTree/bin/Debug/netcoreapp3.1/MyTree.dll
+/Users/leonardo.mesquita/Documents/Personal/pocs/MyTree/MyTree/bin/Debug/netcoreapp3.1/MyTree.pdb
+/Users/leonardo.mesquita/Documents/Personal/pocs/MyTree/MyTree/obj/Debug/netcoreapp3.1/MyTree.csproj.AssemblyReference.cache
+/Users/leonardo.mesquita/Documents/Personal/pocs/MyTree/MyTree/obj/Debug/netcoreapp3.1/MyTree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leonardo.mesquita/Documents/Personal/pocs/MyTree/MyTree/obj/Debug/netcoreapp3.1/MyTree.AssemblyInfoInputs.cache
+/Users/leonardo.mesquita/Documents/Personal/pocs/MyTree/MyTree/obj/Debug/netcoreapp3.1/MyTree.AssemblyInfo.cs
+/Users/leonardo.mesquita/Documents/Personal/pocs/MyTree/MyTree/obj/Debug/netcoreapp3.1/MyTree.csproj.CoreCompileInputs.cache
+/Users/leonardo.mesquita/Documents/Personal/pocs/MyTree/MyTree/obj/Debug/netcoreapp3.1/MyTree.dll
+/Users/leonardo.mesquita/Documents/Personal/pocs/MyTree/MyTree/obj/Debug/netcoreapp3.1/MyTree.pdb
+/Users/leonardo.mesquita/Documents/Personal/pocs/MyTree/MyTree/obj/Debug/netcoreapp3.1/MyTree.genruntimeconfig.cache
